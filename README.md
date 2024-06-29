@@ -9,4 +9,5 @@
 É feito através de códigos simples na linguagem Java (Podendo ser adaptada para outras linguagens)
 
 ## Continuidade
-Futuramente aplicada em Kotlin ou Ionic para Mobile
+ - Futuramente aplicada em Mobile
+ - Desenvolver em POO (Objetos)
