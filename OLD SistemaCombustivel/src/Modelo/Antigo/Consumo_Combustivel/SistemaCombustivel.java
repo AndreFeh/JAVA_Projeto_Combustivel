@@ -1,4 +1,4 @@
-package SistemaCombustivel;
+package Modelo.Antigo.Consumo_Combustivel;
 
 import java.util.Scanner;
 
