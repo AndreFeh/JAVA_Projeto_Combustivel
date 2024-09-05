@@ -1,13 +1,16 @@
-# Sistema de Combustível
-  Esse sistema tem como foco
-  - Calcular Quantos Reais o Carro Vai Gastar na Viagem
-  - Calcular o Valor Total ao Encher o Tanque
-  - Calcular Quantos Litros Gastos Ate Checar ao Local
-  - Com Base na Capacidade Atual, Quanto Falta para Completar o Tanque
+# PROJETO PESSOAL *CÁLCULO COMBUSTIVEL*  
+## _!!! REFATORADO !!!_ 🤩🚀
 
-## Linguagem do Projeto
-É feito através de códigos simples na linguagem Java (Podendo ser adaptada para outras linguagens)
+### Temos Um Código Que Efetua Alguns Cálculos & Operações
+Esse código aprimorado, se deve a aulas da Digital Innovation One, 
+    Onde pude compreender melhor os processos de POO
 
-## Continuidade
- - Futuramente aplicada em Mobile
- - Desenvolver em POO (Objetos)
+Nesse codigo, temos algumas operações, 
+    Dentre elas ja implementadas nessa nova versão:
+>>> 1. Para Calcular Quantos Reais o Carro Vai Gastar na Viagem;
+>>> 2. Para Calcular Quantos Litros Gastos Ate Checar ao Local;
+>>> 3. Para Calcular o Valor Total ao Encher o Tanque;
+
+>> LEMBRANDO, ESSE É UM PROJETO JAVA COM POO E ENCAPSULAMENTO
+
+> Ainda aprensendo sobre, entao pode estar fora das Boas Práticas do Mercado
